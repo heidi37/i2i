@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    /* background: url('/images/i2i-logo.png') no-repeat;
+    background-size: 40%; */
+}
+
+header {
+    display: flex;justify-content: center;
+    align-items: center;
+}
+
+h1, h2, h3, h4 {
+    font-size: 1.5rem;
+    color: #1D599F
+}
+
+h1 {
+}
+
+.logo {
+    width: 100px;
+    padding: 1rem;
+}
